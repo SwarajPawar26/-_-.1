@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    width: 100%;
+    background:transparent ;
+    background-image: url(r2ckfhy5x0tp3d6jy28l33zfzho9.webp);
+    background-position: center;
+    background-size: cover;
+    height: 110vh;
+}
+
+.navi{
+    width: 1500px;
+    height: 75px;
+    
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 25px;
+    float: left;
+    padding-top: 17px;
+    font-weight: bold;
+    cursor: pointer;
+}
+menu .logo{
+    
+    text-decoration: none;
+    transition: 0.4s ease-in-out;
+
+}
+menu mn .logo:hover{
+    color: #ff7200;
+}
+menu mn .logo:hover{
+    color: rgb(255, 166, 0);
+}
+.options{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+menu{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+menu mn{
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 37px;
+    font-size: 16px;
+}
+
+menu mn a{
+    color: #fff;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+   
+    
+}
+
+menu mn c{
+    color: #ff7200;
+    text-decoration: none;
+    border-bottom: 3px solid;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+menu mn a:hover{
+    color: #ff7200;
+    border-bottom: 3px;
+    
+}
+menu mn a:hover{
+    color: #ff7200;
+}
+ 
+ln{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.Log .btn{
+    list-style: none;
+    margin-left: 45px;
+    margin-top: 37px;
+    font-size: 22px;
+}
+
+.Log .btn{
+    width: 100px;
+    height: 30px;
+    background-color: #ff7200;
+    border: none;
+    margin-bottom: 4px;
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+
+.Log .btn a{
+    text-decoration: none;
+    color: rgb(17, 7, 53);
+    transition: 3s ease;
+}
+
+.btn:hover{
+    background-color: rgb(175, 239, 255);
+}
+
+
+
+
+.Info{
+    width: 1250px;
+    height: auto;
+    margin: auto;
+    color: rgb(218, 245, 255);
+    position: relative;
+
+}
+
+.Info .para{
+    padding-left: 20px;
+    height: auto;
+    margin: auto;
+    color: #fff ;
+    position: relative;
+    font-size: 22px;
+    
+}
+
+.Info h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 7.5%;
+    letter-spacing: 2.5px;
+}
+
+.Info .ju{
+    width: 175px;
+    height: 45px;
+    background-color: #ff7200;
+    border: none;
+    margin-bottom: 4px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+
+.Info .ju a{
+    text-decoration: none;
+    color: rgb(17, 7, 53);
+    transition: 3s ease;
+}
+
+.ju:hover{
+    background-color: rgb(175, 239, 255);
+}
+
+.Info .down{
+    height: 45px;
+    width: 175px;
+    background-color: #ff7200;
+    border: none;
+    margin-bottom: 150px;
+    margin-top: 22px;
+    margin-left: 22px;
+    padding-bottom: 2px;
+    position: relative;
+    bottom: 10%;
+    font-size: 14.5px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s ease;
+    
+}
+
+.Info .down a{
+    text-decoration: none;
+    color: rgb(17, 7, 53);
+    transition: 3s ease;
+}
+
+.down:hover{
+    background-color: rgb(175, 239, 255);
+}
+.Info s1{
+    color: #ffbb00;
+    font-weight: bold;
+    
+}
+
+.Info s2{
+    text-decoration: none;
+    color: #ff7200;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .4s ease-in;
+    cursor: pointer;
+    
+}
+.s2:hover{
+    color: #ff7200;
+    border-bottom: 2px ;
+
+}
+
+
